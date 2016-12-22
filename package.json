@@ -45,6 +45,6 @@
     "template"
   ],
   "dependencies": {
-    "extend-shallow": "^1.1.2"
+    "extend-shallow": "^2.0.1"
   }
 }
